@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingKata", "ShoppingKata\ShoppingKata.csproj", "{707DB70F-1BCE-40E5-B9D4-2B90137A4CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingKata.Tests", "ShoppingKata.Tests\ShoppingKata.Tests.csproj", "{A7976447-8895-4E64-9C66-5BF73BA0DCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707DB70F-1BCE-40E5-B9D4-2B90137A4CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707DB70F-1BCE-40E5-B9D4-2B90137A4CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707DB70F-1BCE-40E5-B9D4-2B90137A4CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707DB70F-1BCE-40E5-B9D4-2B90137A4CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7976447-8895-4E64-9C66-5BF73BA0DCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7976447-8895-4E64-9C66-5BF73BA0DCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7976447-8895-4E64-9C66-5BF73BA0DCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7976447-8895-4E64-9C66-5BF73BA0DCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
